@@ -1,2 +1,2 @@
-# -e-en-soustavy-rovnic
+# soustavy-rovnic
 Maturitní projekt
